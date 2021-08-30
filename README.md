@@ -5,3 +5,5 @@ I will try and add more boards as I get to it. If you have made a configuration 
 The main reason I create those configurations is to make it easier to create, expand and change configurations while also making them easy to read by omitting the pin names themselves.
 
 Using the provided configuration files as guides for naming the aliases can make it possible to switch boards with minimal changes needed in the printer.cfg.
+
+If you don't know how to create such a configuration file, you can make a board request.
